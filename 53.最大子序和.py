@@ -29,7 +29,7 @@ class Solution:
 
 
 x = Solution()
-print(x.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))
+print(x.maxSubArray([1,-2,3,10,-4,7,2,-5]))
 
 
 
